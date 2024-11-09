@@ -9,7 +9,7 @@ default_args = {
 }
 
 with DAG(
-    dag_id = "hee_v2",
+    dag_id = "hee_bash_v2",
     default_args = default_args,
     description = "heekuytat",
     start_date = datetime(2024, 11, 9, 3, 58),
@@ -25,4 +25,18 @@ with DAG(
         bash_command="echo i am task 2 that run after task 1"
     )
 
-task1 >> task2
+    task3 = BashOperator(
+        task_id = "3",
+        bash_command="echo i am task 3 that run after task 1"
+    )
+
+#method 1
+#task1.set_downstream(task2)
+#task1.set_downstream(task3)
+
+#method 2
+#task1 >> task2
+#task1 >> task3
+
+#method 3
+task1 >> [task2, task3]
