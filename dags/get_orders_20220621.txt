@@ -1,0 +1,7 @@
+order_id,date,product_name,quantity
+174-14-9070,2022-06-21,Berry Brulee,91
+811-99-5026,2022-06-21,Dill Weed - Dry,86
+763-05-6008,2022-06-21,Sandwich Wrap,82
+450-01-0679,2022-06-21,Veal - Sweetbread,36
+440-05-5760,2022-06-21,Frangelico,30
+588-38-2823,2022-06-21,Tea - Lemon Scented,46

@@ -1,0 +1,17 @@
+order_id,date,product_name,quantity
+247-68-9333,2022-05-20,"Carrots - Purple, Organic",51
+453-81-1076,2022-05-20,Sausage - Blood Pudding,29
+188-65-1641,2022-05-20,Cake - Lemon Chiffon,88
+725-15-8149,2022-05-20,"Mop Head - Cotton, 24 Oz",89
+881-18-0669,2022-05-20,Dates,34
+279-92-9928,2022-05-20,"Salmon - Whole, 4 - 6 Pounds",42
+720-93-3679,2022-05-20,Chocolate Bar - Smarties,64
+133-14-2767,2022-05-20,Canada Dry,42
+473-06-5272,2022-05-20,Wine - Magnotta - Cab Sauv,18
+492-48-2097,2022-05-20,Carroway Seed,62
+182-61-6101,2022-05-20,Lamb Leg - Bone - In Nz,93
+525-95-5454,2022-05-20,Cheese - Ricotta,13
+821-51-5525,2022-05-20,Bread - Bistro Sour,77
+676-31-3684,2022-05-20,Tea - Lemon Green Tea,74
+701-02-7162,2022-05-20,Table Cloth 62x120 Colour,24
+153-84-4751,2022-05-20,"Pasta - Fettuccine, Dry",57

@@ -1,0 +1,9 @@
+order_id,date,product_name,quantity
+336-29-0976,2022-06-15,"Thyme - Lemon, Fresh",78
+745-41-6682,2022-06-15,Cheese - Gouda,99
+490-44-0948,2022-06-15,Chambord Royal,8
+375-58-6072,2022-06-15,Sauce - Cranberry,32
+497-92-5886,2022-06-15,"Syrup - Golden, Lyles",53
+206-55-8427,2022-06-15,"Salsify, Organic",28
+640-19-9270,2022-06-15,Oil - Sunflower,19
+181-99-2348,2022-06-15,"Soup - Campbells, Cream Of",56

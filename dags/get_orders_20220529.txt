@@ -1,0 +1,12 @@
+order_id,date,product_name,quantity
+805-61-9059,2022-05-29,Wine - Crozes Hermitage E.,89
+472-43-7467,2022-05-29,Vaccum Bag - 14x20,9
+533-03-3450,2022-05-29,"Lettuce - Romaine, Heart",80
+549-80-6232,2022-05-29,"Stock - Veal, Brown",35
+762-42-8347,2022-05-29,"Juice - Clam, 46 Oz",47
+757-33-4685,2022-05-29,Pumpkin,48
+545-02-8146,2022-05-29,"Wine - Bourgogne 2002, La",11
+379-55-6062,2022-05-29,Wine - Zinfandel California 2002,78
+408-03-1614,2022-05-29,Sprouts - Alfalfa,80
+840-50-3686,2022-05-29,Swiss Chard,41
+118-06-9996,2022-05-29,"Beef - Rib Roast, Capless",54

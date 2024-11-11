@@ -1,0 +1,7 @@
+order_id,date,product_name,quantity
+855-04-8696,2022-05-24,Nectarines,71
+388-04-7257,2022-05-24,"Lettuce - Romaine, Heart",71
+333-66-0310,2022-05-24,Beer - True North Strong Ale,14
+657-10-8764,2022-05-24,Muffin Mix - Corn Harvest,31
+267-27-8810,2022-05-24,Cheese - Valancey,23
+607-78-5853,2022-05-24,Limes,47

@@ -1,0 +1,13 @@
+order_id,date,product_name,quantity
+758-09-1655,2022-06-01,Wine - Rosso Del Veronese Igt,82
+808-29-1220,2022-06-01,Beans - Fava Fresh,16
+882-65-5329,2022-06-01,Hummus - Spread,66
+357-50-6604,2022-06-01,Papadam,84
+301-67-2471,2022-06-01,Wine - Lamancha Do Crianza,23
+376-09-2475,2022-06-01,Bandage - Flexible Neon,73
+536-82-4566,2022-06-01,"Wine - White, Ej Gallo",42
+171-74-3602,2022-06-01,Plasticknivesblack,79
+281-89-6138,2022-06-01,Bread - Olive Dinner Roll,61
+379-63-3751,2022-06-01,Veal - Eye Of Round,21
+206-77-6840,2022-06-01,Beef Cheek Fresh,12
+469-67-9602,2022-06-01,"Cheese - Romano, Grated",34

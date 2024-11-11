@@ -1,0 +1,13 @@
+order_id,date,product_name,quantity
+389-74-9918,2022-06-19,Wine - Cabernet Sauvignon,73
+517-47-6286,2022-06-19,"Chocolate - Pistoles, Lactee, Milk",13
+726-01-1439,2022-06-19,Clams - Bay,62
+427-28-1352,2022-06-19,Boogies,34
+142-42-5230,2022-06-19,Mushroom - Morel Frozen,23
+510-38-7425,2022-06-19,Anchovy Paste - 56 G Tube,82
+847-94-7831,2022-06-19,Pate - Peppercorn,76
+195-46-7845,2022-06-19,Bagels Poppyseed,31
+692-87-2754,2022-06-19,Wine - Casablanca Valley,44
+511-60-9515,2022-06-19,Flour - All Purpose,46
+244-07-4861,2022-06-19,Juice - Cranberry 284ml,41
+123-41-8936,2022-06-19,Jam - Apricot,55

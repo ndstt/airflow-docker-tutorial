@@ -1,0 +1,6 @@
+order_id,date,product_name,quantity
+717-96-2034,2022-06-09,Lettuce - Iceberg,59
+850-50-7688,2022-06-09,Worcestershire Sauce,11
+818-28-5853,2022-06-09,Calvados - Boulard,62
+332-71-0320,2022-06-09,Juice - Apple 284ml,30
+537-55-9144,2022-06-09,"Fish - Scallops, Cold Smoked",80

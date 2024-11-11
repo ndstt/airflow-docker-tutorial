@@ -1,0 +1,7 @@
+order_id,date,product_name,quantity
+127-59-8909,2022-05-25,"Nut - Pecan, Halves",58
+324-31-2633,2022-05-25,Soup - Campbellschix Stew,99
+407-54-8984,2022-05-25,Cheese - St. Paulin,4
+312-57-0212,2022-05-25,Pork - Caul Fat,97
+274-23-9977,2022-05-25,Eggwhite Frozen,98
+782-83-6460,2022-05-25,Pastry - Butterscotch Baked,3

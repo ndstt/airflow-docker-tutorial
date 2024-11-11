@@ -1,0 +1,15 @@
+order_id,date,product_name,quantity
+407-52-8033,2022-06-16,Wine - Fume Blanc Fetzer,67
+348-17-7289,2022-06-16,Beans - Fava Fresh,27
+484-19-6698,2022-06-16,Pickles - Gherkins,94
+750-51-5414,2022-06-16,Chocolate - Mi - Amere Semi,74
+439-45-2896,2022-06-16,Mix - Cappucino Cocktail,97
+679-37-4626,2022-06-16,Pork - Smoked Back Bacon,67
+165-35-4434,2022-06-16,Tuna - Fresh,67
+187-60-9431,2022-06-16,Crab - Meat Combo,79
+709-10-9155,2022-06-16,Capers - Pickled,58
+886-57-7616,2022-06-16,Peppercorns - Pink,59
+381-81-8762,2022-06-16,"Juice - Apple, 500 Ml",33
+384-06-4844,2022-06-16,Cookie - Dough Variety,17
+504-22-1714,2022-06-16,Shrimp - 31/40,43
+899-45-7855,2022-06-16,"Hickory Smoke, Liquid",20

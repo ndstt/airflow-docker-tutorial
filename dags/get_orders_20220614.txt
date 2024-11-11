@@ -1,0 +1,11 @@
+order_id,date,product_name,quantity
+281-06-2489,2022-06-14,Fish - Bones,35
+736-85-7480,2022-06-14,Chip - Potato Dill Pickle,28
+849-04-0907,2022-06-14,Onions - Cippolini,37
+275-15-0739,2022-06-14,V8 Pet,34
+549-91-9422,2022-06-14,Lid Coffeecup 12oz D9542b,6
+567-12-8138,2022-06-14,"Salsify, Organic",88
+603-78-7939,2022-06-14,Aspic - Light,70
+671-43-7083,2022-06-14,Syrup - Chocolate,3
+845-37-0812,2022-06-14,Rabbit - Whole,22
+279-36-0908,2022-06-14,Bread Foccacia Whole,66

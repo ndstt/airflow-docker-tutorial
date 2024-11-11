@@ -1,0 +1,3 @@
+order_id,date,product_name,quantity
+579-32-0229,2022-06-29,Five Alive Citrus,51
+638-25-0188,2022-06-29,"Soup - Campbells, Classic Chix",77

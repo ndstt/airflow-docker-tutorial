@@ -1,0 +1,10 @@
+order_id,date,product_name,quantity
+447-05-4082,2022-06-11,"Vodka - Lemon, Absolut",99
+334-25-4095,2022-06-11,"Shrimp - 16/20, Peeled Deviened",12
+491-87-5346,2022-06-11,Celery,32
+541-41-1575,2022-06-11,"Leeks - Baby, White",97
+620-67-3323,2022-06-11,Cranberries - Dry,91
+714-27-9046,2022-06-11,Gelatine Leaves - Envelopes,90
+426-40-1120,2022-06-11,Crab - Meat Combo,3
+745-21-8792,2022-06-11,"Turkey - Whole, Fresh",66
+791-03-0807,2022-06-11,Milkettes - 2%,15

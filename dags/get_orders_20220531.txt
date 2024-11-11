@@ -1,0 +1,12 @@
+order_id,date,product_name,quantity
+119-20-1941,2022-05-31,"Tart Shells - Sweet, 4",44
+761-95-9670,2022-05-31,Sambuca - Opal Nera,21
+438-32-0983,2022-05-31,Mustard - Dijon,6
+528-05-3407,2022-05-31,"Cheese - Havarti, Salsa",64
+745-72-6752,2022-05-31,Shrimp - 150 - 250,95
+442-95-1622,2022-05-31,Wine - Alsace Riesling Reserve,3
+169-27-3569,2022-05-31,Plastic Wrap,27
+807-40-4542,2022-05-31,Sherbet - Raspberry,91
+867-86-1793,2022-05-31,"Coke - Classic, 355 Ml",94
+840-50-1826,2022-05-31,"Cheese - Cheddar, Old White",90
+264-43-1137,2022-05-31,Sauce - Hp,53

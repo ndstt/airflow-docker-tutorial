@@ -1,0 +1,8 @@
+order_id,date,product_name,quantity
+645-17-0921,2022-06-18,"Sauce - Soya, Light",61
+799-97-9243,2022-06-18,Muffin Orange Individual,30
+261-64-9996,2022-06-18,Hipnotiq Liquor,83
+362-23-0442,2022-06-18,Sprouts - Alfalfa,41
+130-83-9211,2022-06-18,Plastic Wrap,23
+736-09-6197,2022-06-18,Plate Pie Foil,19
+878-25-9553,2022-06-18,"Oil - Shortening,liqud, Fry",36

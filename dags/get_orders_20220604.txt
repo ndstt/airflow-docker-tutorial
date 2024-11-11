@@ -1,0 +1,9 @@
+order_id,date,product_name,quantity
+398-97-3805,2022-06-04,Lettuce - California Mix,16
+646-32-0772,2022-06-04,Table Cloth 120 Round White,84
+372-76-7960,2022-06-04,Nougat - Paste / Cream,60
+323-33-1309,2022-06-04,Squid - Breaded,99
+215-15-7254,2022-06-04,Flour - Masa De Harina Mexican,1
+519-44-3939,2022-06-04,Foam Espresso Cup Plain White,72
+772-78-4162,2022-06-04,Beer - Mill St Organic,66
+341-47-1195,2022-06-04,"Shrimp - Baby, Cold Water",51

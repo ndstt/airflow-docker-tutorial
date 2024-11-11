@@ -1,0 +1,16 @@
+order_id,date,product_name,quantity
+481-25-7163,2022-06-02,Tomato - Tricolor Cherry,46
+493-29-4091,2022-06-02,Cakes Assorted,64
+667-83-2491,2022-06-02,Lemon Tarts,85
+544-55-3597,2022-06-02,Snails - Large Canned,51
+785-77-1802,2022-06-02,Rabbit - Frozen,66
+795-26-2083,2022-06-02,Breadfruit,9
+305-99-8432,2022-06-02,Smoked Paprika,66
+822-48-5549,2022-06-02,Potatoes - Pei 10 Oz,47
+117-77-4348,2022-06-02,Bagel - Whole White Sesame,13
+616-12-6213,2022-06-02,Lotus Root,26
+180-63-7077,2022-06-02,Bandage - Finger Cots,70
+138-35-7438,2022-06-02,Turkey Leg With Drum And Thigh,7
+500-37-8652,2022-06-02,Muffin Mix - Carrot,89
+610-14-2761,2022-06-02,"Coconut - Shredded, Sweet",19
+571-81-6705,2022-06-02,Pastry - Butterscotch Baked,75

@@ -1,0 +1,8 @@
+order_id,date,product_name,quantity
+675-98-0511,2022-06-25,Wine - Guy Sage Touraine,47
+854-31-8345,2022-06-25,Veal - Nuckle,45
+652-62-1285,2022-06-25,Cups 10oz Trans,35
+379-18-6255,2022-06-25,Juice - V8 Splash,12
+448-39-0750,2022-06-25,Flower - Leather Leaf Fern,20
+501-71-1581,2022-06-25,Scotch - Queen Anne,66
+303-60-5397,2022-06-25,Lentils - Green Le Puy,95

@@ -1,0 +1,8 @@
+order_id,date,product_name,quantity
+479-63-9949,2022-05-23,"Chestnuts - Whole,canned",72
+258-73-4976,2022-05-23,Sauce - Cranberry,81
+261-12-1261,2022-05-23,Octopus,29
+177-30-8513,2022-05-23,"Clams - Littleneck, Whole",8
+440-49-3667,2022-05-23,Wine - Chianti Classico Riserva,45
+897-40-7108,2022-05-23,Cup Translucent 9 Oz,86
+287-67-7181,2022-05-23,Calaloo,96

@@ -1,0 +1,6 @@
+order_id,date,product_name,quantity
+301-25-4595,2022-05-30,Foam Tray S2,57
+645-17-3646,2022-05-30,"Turkey - Breast, Double",44
+384-03-1323,2022-05-30,Sugar - Cubes,7
+194-26-8605,2022-05-30,Soup - Campbells Beef Noodle,97
+238-73-1514,2022-05-30,Squid Ink,100

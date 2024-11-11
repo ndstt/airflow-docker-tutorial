@@ -1,0 +1,5 @@
+order_id,date,product_name,quantity
+223-59-5060,2022-06-23,Plastic Wrap,42
+569-76-5286,2022-06-23,"Mushroom - Enoki, Dry",100
+792-68-8504,2022-06-23,Basil - Fresh,30
+869-79-5836,2022-06-23,Ice Cream Bar - Oreo Sandwich,79

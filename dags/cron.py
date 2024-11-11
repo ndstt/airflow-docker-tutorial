@@ -1,6 +1,6 @@
-from airflow import DAG
+from airflow import DAG # type: ignore
 from datetime import datetime, timedelta
-from airflow.operators.bash import BashOperator
+from airflow.operators.bash import BashOperator # type: ignore
 
 default_args = {
     'owner' : 'ndst',

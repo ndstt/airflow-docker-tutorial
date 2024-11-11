@@ -1,0 +1,6 @@
+order_id,date,product_name,quantity
+229-95-0317,2022-06-13,Wine - Zinfandel Rosenblum,15
+713-50-4824,2022-06-13,Cafe Royale,78
+352-10-0992,2022-06-13,Cake Slab,59
+897-48-0572,2022-06-13,Eel Fresh,84
+619-73-1204,2022-06-13,Cheese - Cream Cheese,21

@@ -1,0 +1,13 @@
+order_id,date,product_name,quantity
+608-70-6652,2022-05-22,Shiro Miso,73
+694-97-4458,2022-05-22,"Lamb - Whole Head Off,nz",88
+572-80-8647,2022-05-22,Chinese Foods - Cantonese,2
+234-10-0886,2022-05-22,Lady Fingers,90
+278-08-7078,2022-05-22,Apples - Spartan,21
+337-21-1720,2022-05-22,Ice Cream - Life Savers,91
+486-62-3277,2022-05-22,Relish,40
+440-89-8475,2022-05-22,Syrup - Kahlua Chocolate,44
+843-80-7184,2022-05-22,Cheese - Cheddarsliced,57
+302-94-4644,2022-05-22,Salt - Kosher,30
+883-91-0511,2022-05-22,"Juice - Pineapple, 48 Oz",99
+382-63-7294,2022-05-22,Wine - Ruffino Chianti Classico,51

@@ -1,0 +1,15 @@
+order_id,date,product_name,quantity
+343-87-0073,2022-06-03,Vinegar - Champagne,79
+814-77-8588,2022-06-03,Corn - Mini,42
+722-16-8054,2022-06-03,Cheese Cloth No 100,5
+244-31-1699,2022-06-03,"Split Peas - Yellow, Dry",50
+392-20-0892,2022-06-03,Cheese - Augre Des Champs,71
+335-86-9965,2022-06-03,Wine - Niagara Peninsula Vqa,33
+111-01-5750,2022-06-03,Mix - Cappucino Cocktail,31
+376-29-1359,2022-06-03,Miso - Soy Bean Paste,16
+733-83-6828,2022-06-03,Straw - Regular,29
+685-13-0627,2022-06-03,Beer - Camerons Auburn,4
+499-99-3875,2022-06-03,Shark - Loin,32
+247-10-4024,2022-06-03,Sansho Powder,78
+644-09-3906,2022-06-03,Pastry - Butterscotch Baked,69
+244-41-2605,2022-06-03,Cocoa Feuilletine,88

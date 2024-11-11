@@ -1,0 +1,8 @@
+order_id,date,product_name,quantity
+644-36-2279,2022-06-28,Kellogs All Bran Bars,54
+183-62-8275,2022-06-28,Butter - Pod,73
+162-21-4575,2022-06-28,Initation Crab Meat,25
+231-56-5832,2022-06-28,Magnotta - Bel Paese White,19
+620-64-4260,2022-06-28,Butter - Pod,16
+332-20-8792,2022-06-28,Thermometer Digital,76
+535-85-3773,2022-06-28,Salmon - Canned,92

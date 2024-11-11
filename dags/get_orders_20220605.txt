@@ -1,0 +1,11 @@
+order_id,date,product_name,quantity
+153-82-5012,2022-06-05,Wine - Coteaux Du Tricastin Ac,72
+551-13-4523,2022-06-05,Cream Of Tartar,10
+535-07-6929,2022-06-05,Sword Pick Asst,34
+802-92-5670,2022-06-05,Cheese - Gouda Smoked,95
+748-25-7677,2022-06-05,"Chilli Paste, Ginger Garlic",9
+870-43-6300,2022-06-05,Wine - Penfolds Koonuga Hill,66
+663-84-6725,2022-06-05,"Juice - Apple, 500 Ml",29
+558-32-2591,2022-06-05,Juice - Mango,21
+569-52-8007,2022-06-05,Pastry - Choclate Baked,63
+491-92-5190,2022-06-05,Swiss Chard - Red,40

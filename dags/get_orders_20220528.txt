@@ -1,0 +1,14 @@
+order_id,date,product_name,quantity
+538-39-7354,2022-05-28,Trout - Smoked,31
+863-41-8035,2022-05-28,Foil Wrap,7
+513-03-5082,2022-05-28,Bok Choy - Baby,15
+567-52-7153,2022-05-28,Dill Weed - Fresh,3
+709-85-5305,2022-05-28,Squash - Pepper,78
+195-79-8414,2022-05-28,"Syrup - Monin, Irish Cream",34
+109-77-4437,2022-05-28,Creme De Menthe Green,73
+385-06-9778,2022-05-28,Wine - Sicilia Igt Nero Avola,46
+519-58-5729,2022-05-28,"Jam - Marmalade, Orange",88
+773-09-6760,2022-05-28,English Muffin,56
+506-85-3370,2022-05-28,Fruit Salad Deluxe,95
+146-23-6941,2022-05-28,Wasabi Paste,56
+679-05-6862,2022-05-28,Cheese - Bakers Cream Cheese,81

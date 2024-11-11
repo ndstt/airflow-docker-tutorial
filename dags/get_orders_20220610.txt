@@ -1,0 +1,10 @@
+order_id,date,product_name,quantity
+822-84-5313,2022-06-10,Chevere Logs,6
+514-35-4892,2022-06-10,Yams,56
+287-75-6209,2022-06-10,"Wine - Red, Cooking",97
+391-48-3528,2022-06-10,Aspic - Amber,92
+632-18-4944,2022-06-10,Beer - Pilsner Urquell,100
+627-20-1551,2022-06-10,Sugar - Icing,62
+181-27-8707,2022-06-10,Beef - Ox Tongue,85
+536-40-0582,2022-06-10,Cheese - Brie Roitelet,1
+800-56-1192,2022-06-10,"Chocolate - Pistoles, Lactee, Milk",27

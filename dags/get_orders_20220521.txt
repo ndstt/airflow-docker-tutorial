@@ -1,0 +1,8 @@
+order_id,date,product_name,quantity
+271-32-8498,2022-05-21,"Cup - 3.5oz, Foam",37
+171-02-3401,2022-05-21,Rice - Sushi,19
+710-38-6650,2022-05-21,Mix - Cocktail Ice Cream,86
+183-89-9319,2022-05-21,Ecolab Crystal Fusion,23
+327-48-4975,2022-05-21,Water - Evian 355 Ml,39
+721-31-4768,2022-05-21,"Basil - Dry, Rubbed",16
+571-07-7960,2022-05-21,Buffalo - Striploin,36

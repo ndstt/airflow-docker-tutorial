@@ -1,0 +1,12 @@
+order_id,date,product_name,quantity
+830-16-8008,2022-06-06,Longos - Lasagna Beef,66
+874-84-1326,2022-06-06,Lettuce - Baby Salad Greens,53
+707-65-2265,2022-06-06,"Cod - Salted, Boneless",31
+776-27-6707,2022-06-06,Squash - Acorn,37
+756-57-3952,2022-06-06,Tea Leaves - Oolong,6
+395-14-7571,2022-06-06,Lettuce - Green Leaf,65
+892-18-5866,2022-06-06,Wine - Shiraz South Eastern,9
+823-30-0027,2022-06-06,Chocolate - Mi - Amere Semi,86
+112-63-5494,2022-06-06,"Wine - Niagara,vqa Reisling",75
+797-96-7383,2022-06-06,Bagelers - Cinn / Brown Sugar,61
+270-11-9312,2022-06-06,Compound - Pear,60

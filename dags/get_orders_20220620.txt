@@ -1,0 +1,6 @@
+order_id,date,product_name,quantity
+519-96-5021,2022-06-20,Chicken - Soup Base,2
+288-85-5643,2022-06-20,Icecream - Dstk Cml And Fdg,90
+311-94-7408,2022-06-20,Chicken - Whole Fryers,33
+283-12-1062,2022-06-20,Wine - Bouchard La Vignee Pinot,19
+286-39-5922,2022-06-20,Arrowroot,52

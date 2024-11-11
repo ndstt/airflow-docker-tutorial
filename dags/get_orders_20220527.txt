@@ -1,0 +1,15 @@
+order_id,date,product_name,quantity
+634-10-9582,2022-05-27,"Juice - Pineapple, 341 Ml",29
+570-75-5803,2022-05-27,Potatoes - Mini White 3 Oz,42
+684-65-8084,2022-05-27,Rice - Basmati,36
+439-79-1138,2022-05-27,"Ham - Smoked, Bone - In",41
+878-63-9626,2022-05-27,Wine - Chardonnay Mondavi,74
+330-07-6372,2022-05-27,Crackers - Trio,61
+778-26-9805,2022-05-27,"Soup - Knorr, Chicken Noodle",9
+255-16-4038,2022-05-27,Ginger - Crystalized,85
+581-63-4389,2022-05-27,Cheese - Mix,93
+809-20-8975,2022-05-27,Soup - Chicken And Wild Rice,92
+119-31-7178,2022-05-27,Pork Loin Cutlets,18
+374-95-2685,2022-05-27,"Soup - Campbells, Cream Of",55
+849-16-3645,2022-05-27,Caviar - Salmon,32
+612-55-5935,2022-05-27,"Beef - Baby, Liver",57

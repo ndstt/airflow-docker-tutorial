@@ -1,0 +1,6 @@
+order_id,date,product_name,quantity
+605-09-5596,2022-06-08,Bagel - Everything Presliced,54
+524-64-5173,2022-06-08,Beans - Kidney White,30
+489-08-4424,2022-06-08,Triple Sec - Mcguinness,42
+199-19-8339,2022-06-08,"Onions - Dried, Chopped",32
+598-02-3878,2022-06-08,Cookies Oatmeal Raisin,75

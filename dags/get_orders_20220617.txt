@@ -1,0 +1,10 @@
+order_id,date,product_name,quantity
+562-78-1964,2022-06-17,"Tomatoes - Plum, Canned",52
+601-63-5142,2022-06-17,Snapple - Mango Maddness,100
+619-66-3180,2022-06-17,Boogies,3
+216-03-7476,2022-06-17,Instant Coffee,79
+861-29-1651,2022-06-17,"Beef - Outside, Round",4
+469-90-3137,2022-06-17,Onions - Pearl,43
+894-34-0600,2022-06-17,"Wine - White, Cooking",75
+654-62-8756,2022-06-17,"Wine - Red, Antinori Santa",33
+526-62-9399,2022-06-17,"Juice - V8, Tomato",33

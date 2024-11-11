@@ -1,0 +1,15 @@
+order_id,date,product_name,quantity
+132-42-5414,2022-06-24,Flour - Strong,46
+883-49-9436,2022-06-24,Eggwhite Frozen,60
+379-92-8909,2022-06-24,Bread - Hot Dog Buns,1
+620-03-5817,2022-06-24,Sauce - Caesar Dressing,39
+221-96-0602,2022-06-24,Wine - George Duboeuf Rose,89
+539-17-0575,2022-06-24,Filo Dough,95
+115-79-7945,2022-06-24,Appetizer - Southwestern,91
+181-81-3826,2022-06-24,Wine - Vidal Icewine Magnotta,87
+433-48-9858,2022-06-24,"Pork - Chop, Frenched",79
+537-15-8631,2022-06-24,"Crab - Back Fin Meat, Canned",43
+343-01-9847,2022-06-24,"Wine - Saint - Bris 2002, Sauv",64
+507-07-8274,2022-06-24,Muffin Mix - Raisin Bran,4
+518-96-9254,2022-06-24,Onions - Green,5
+522-79-1789,2022-06-24,Lamb Leg - Bone - In Nz,30

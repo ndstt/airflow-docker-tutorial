@@ -1,0 +1,11 @@
+order_id,date,product_name,quantity
+524-98-0993,2022-06-22,Oats Large Flake,52
+681-55-4502,2022-06-22,Wine - Casablanca Valley,71
+827-58-0083,2022-06-22,Gatorade - Orange,34
+849-06-8460,2022-06-22,Soup - Campbells,70
+169-96-7799,2022-06-22,Green Tea Refresher,34
+704-98-3521,2022-06-22,"Ham - Smoked, Bone - In",68
+800-22-4750,2022-06-22,Dc - Sakura Fu,89
+246-02-5123,2022-06-22,Steampan - Lid For Half Size,39
+525-60-0254,2022-06-22,Currants,35
+217-66-0150,2022-06-22,Numi - Assorted Teas,4
