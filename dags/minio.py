@@ -9,16 +9,16 @@ default_args = {
 }
 
 with DAG(
-    dag_id = "minio",
+    dag_id = "minio_v2",
     default_args = default_args,
     description = "minio",
-    start_date = datetime(2024, 11, 9),
+    start_date = datetime(2022, 5, 20),
     schedule_interval='@daily'
 ) as dag:
     task1 = S3KeySensor(
     task_id="S3KeySensor",
     bucket_name='airflow',
-    bucket_key='data.csv',
+    bucket_key="orders/{{ ds_nodash }}.txt",
     aws_conn_id='minio_conn',
     poke_interval=30,  # Checks every 30 seconds
     timeout=3600       # Waits up to 1 hour

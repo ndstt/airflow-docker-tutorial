@@ -36,13 +36,17 @@ default_args = {
 }
 
 with DAG(
-    dag_id = "postgres_hook_v9",
+    dag_id = "postgres_hook_v11",
     default_args = default_args,
     start_date = datetime(2022, 5, 20),
     schedule_interval = '@daily'
 ) as dag:
     task1 = PythonOperator(
     task_id="postgres_to_s3",
-    python_callable=postgres_to_s3
+    python_callable=postgres_to_s3,
+    op_kwargs={
+        'ds_nodash': '{{ data_interval_start | ds_nodash }}',
+        'next_ds_nodash': '{{ data_interval_end | ds_nodash }}'
+    }
     )
     task1
